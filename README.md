@@ -158,7 +158,8 @@ Description: A music player implemented with ReactJS and styled components.
 ### PROFESSIONAL 1 SOFTWARE ENGINEER
 
 <b>DXC Technology: 2021-2022</b><br>
-<code>Responsibilities</code>
+
+<i>Responsibilities</i>
 
 - Application development using Microservices architecture.
 - Creation and implementation of MongoDB Schema.
@@ -176,7 +177,8 @@ Description: A music player implemented with ReactJS and styled components.
 ### ASSOCIATE PROFESSIONAL SOFTWARE ENGINEER
 
 <b>DXC Technology: 2019-2021</b><br>
-<code>Responsibilities</code>
+
+<i>Responsibilities</i>
 
 - Web app development using frontend technologies like Angular 13 with RxJS for the migration project
   and VueJS with VueX.
