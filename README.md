@@ -165,7 +165,7 @@ Description: A music player implemented with ReactJS and styled components.
 - Creation and implementation of MongoDB Schema.
 - Build frontend application using ReactJS with Electron.
 - Implementation of state management tools like Redux and ContextAPI in the Frontend App.
-- Integration and implmentation of authentication using OAuth2 with OKTA React SDK and out-of-the-box react Hooks
+- Integration and implementation of authentication using OAuth2 with OKTA React SDK and out-of-the-box react Hooks
   implementation of OKTA endpoints to work with Private URI scheme in the frontend application.
 - Development of RESTful APIs using Springboot framework to manipulate and access data.
 - Implementation of CI/CD pipeline using Jenkins in a Kubernetes cluster to publish Dev and Test builds.
@@ -182,11 +182,11 @@ Description: A music player implemented with ReactJS and styled components.
 
 - Web app development using frontend technologies like Angular 13 with RxJS for the migration project
   and VueJS with VueX.
-- Implmenentation of Unit Test scripts for the frontend application using Jest.
+- Implementation of Unit Test scripts for the frontend application using Jest.
 - Microservices development for web apps using NodeJS with ExpressJS and
   PostgreSQL.
 - Work with Jira to track User Story points and Bugs.
-- Map and refin 15+ story points in a month.
+- Map and refine 15+ story points in a month.
 - Implementation of the CI/CD pipeline using GitHub actions.
 
 <!--
